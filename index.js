@@ -205,4 +205,4 @@ function 生成文章(){
     return 文章.join("\n");
 }
 
-console.log(生成文章())
+console.log(生成文())
